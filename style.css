@@ -1,0 +1,262 @@
+.logo {
+    display: flex;
+}
+
+.logo img {
+    width: 184px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -50px;
+}
+
+.right ul {
+    display: flex;
+    gap: 54px;
+}
+
+.right ul li {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    font-size: 24px;
+
+}
+
+.right ul li span {
+    padding: 0 9px;
+    cursor: pointer;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    font-size: 51px;
+}
+.text2{
+    font-weight: bolder;
+}
+p{
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+}
+
+.version a{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 52px;
+    width: 371px;
+    background-color: #00b6d1;
+    color: white;
+    border-radius: 14px;
+    display: flex;
+    text-decoration: none;
+}
+.version{
+    display: flex;
+    justify-content: center;
+
+    
+} 
+   
+
+.image img{
+    height: 73px;
+    width: 73px;
+    margin-left: 20vw;
+    margin-top: 72px;
+    
+    
+}
+.image{
+    display: flex;
+    align-items: flex-end;
+    gap: 23px;
+    font-size: 24px;
+}
+footer{
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 150px 150px 150px;
+    justify-content: center;
+    gap: 35px;
+    margin-top: 32px;
+    font-size: 20px;
+  
+    
+}
+.en{
+  
+    font-weight: bold;
+    border-radius: 12px ;
+    padding: 3px;
+    padding-left: 5px;
+    width: 350px;
+
+}
+.box1 {
+    background-color: #00b6d1;
+    color: white;
+    padding: 12px;
+    width: 250px;
+    margin-top: 32px;
+    margin-right: 12px;
+    border-radius: 12px;
+    margin-left: 34px;
+    list-style: none;
+}
+.box1 a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+.de{
+    padding: 3px;
+    padding-left: 4px;
+ 
+    border-radius: 12px;
+    width: 350px;
+}
+.de1{
+    font-weight: bolder;
+    
+}
+.de2{
+    font-weight: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.it{
+    padding: 3px;
+    padding-left: 4px;
+  
+    border-radius: 12px;
+    width: 350px;
+}
+.it1{
+    font-weight: bolder;
+    
+}
+.it2{
+    font-weight: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.es{
+    padding: 3px;
+    padding-left: 4px;
+  
+    border-radius: 12px;
+    width: 350px;
+}
+.es1{
+    font-weight: bolder;
+    
+}
+.es2{
+    font-weight: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.fr{
+    padding: 3px;
+    padding-left: 4px;
+  
+    border-radius: 12px;
+    width: 350px;
+}
+.fr1{
+    font-weight: bolder;
+    
+}
+.fr2{
+    font-weight: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.pr{
+    padding: 3px;
+    padding-left: 4px;
+    
+    border-radius: 12px;
+    width: 350px;
+}
+.pr1{
+    font-weight: 20px;
+    
+}
+.pr2{
+    font-weight: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.jp{
+    padding: 3px;
+    padding-left: 4px;
+  
+    border-radius: 12px;
+    width: 350px;
+}
+.jp1{
+    font-weight: bolder;
+    
+}
+.jp2{
+    font-weight: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.kr{
+    padding: 3px;
+    padding-left: 4px;
+  
+    border-radius: 12px;
+    width: 350px;
+}
+.kr1{
+    font-weight: bolder;
+    
+}
+.kr2{
+    font-weight: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.ch{
+    padding: 3px;
+    padding-left: 4px;
+    
+    border-radius: 12px;
+    width: 350px;
+}
+.ch1{
+    font-weight: bolder;
+    
+}
+.ch2{
+    font-weight: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.tr{
+    padding: 3px;
+    padding-left: 4px;
+ 
+    border-radius: 12px;
+    width: 350px;
+}
+.tr1{
+    font-weight: bolder;
+    
+}
+.tr2{
+    font-weight: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.item{
+    text-align: center;
+padding-bottom: 36px;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: #f9f9f9;
+}
